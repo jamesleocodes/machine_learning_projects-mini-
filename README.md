@@ -7,7 +7,6 @@
 
 Wellcome Onboard fellow python coder!! This is a place where you can start your journey and free to contribute too.
 =======
-Wellcome Onboard fellow python coder, This is a place where you can start your journey and free to contribute too.
 
 
 ## Contribution Guidelines
@@ -25,4 +24,4 @@ Wellcome Onboard fellow python coder, This is a place where you can start your j
 
 |SR No |Projects  | Author|
 --- | --- | ---|
-|1|fake_nes_detection|James Leo|
+|1|fake_news_detection|James Leo|
