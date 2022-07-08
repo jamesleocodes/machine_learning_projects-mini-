@@ -26,3 +26,4 @@ Wellcome Onboard fellow python coder!! This is a place where you can start your 
 --- | --- | ---|
 |1|fake_news_detection|James Leo|
 |2|handwritten_digit_recognition|James Leo|
+|3|stock_prediction|James Leo|
